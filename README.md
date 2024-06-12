@@ -9,4 +9,4 @@ There are service locations at (36.0666667, -86.4347222), (35.5883333, -86.44388
 
 When evaluating the performance of your model, assume that the cost associated with a missed full derate is approximately $4000 in towing and repairs, and the cost of a false positive prediction is about $500 due to having the truck off the road and serviced unnecessarily.
 
-This is a team project.
+This is a team project that I worked on with Mike Tatar and Prahlad Siwakoti.
